@@ -10,4 +10,4 @@ for i in range(1, num + 1):
     list1.append(ele)
      
 
-print("Smallest element is:", max(list1))
+print("Largest element is:", max(list1))
